@@ -34,7 +34,7 @@ A tool that monitors Reddit for valuable content from specific subreddits and ke
 
 ### 📫 Let's Connect
 
-- **Email:** [simondougss@example.com](mailto:simondougss@gmail.com)
+- **Email:** [simondougss@gmail.com](mailto:simondougss@gmail.com)
 - **Website:** [superdouglas.dev](https://rebrand.ly/superdouglas)
 - **LinkedIn:** [Simon Douglas](https://linkedin.com/in/simondouglasw)
 
